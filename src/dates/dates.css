@@ -1,0 +1,14 @@
+.parentDate {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.date-box {
+    flex-wrap: wrap;
+    border-style: solid;
+    width: 15.99vw;
+    padding: 5px;
+}
