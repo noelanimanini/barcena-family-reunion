@@ -1,0 +1,12 @@
+h1 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.parentDiv { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-style: solid;
+    color: blue;
+    height: 37.65vh
+}
